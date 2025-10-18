@@ -102,13 +102,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>0xk3n3r</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1062</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Earth</dd>
+<dt>I say let the world go to hell</dt>
+<dd>but I should always have my tea</dd>
 </dl>
 
 ```
