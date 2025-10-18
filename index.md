@@ -6,21 +6,18 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Hej, I am a full-stack engineer. I am good at learning and deploying new technologies. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Key 1
 
-# Header 1
+I am a highly motivated and adaptable computer science graduate student with a strong academic background and practical experience in full-stack web development, data analysis, and machine learning. I have developed a solid foundation in programming languages, including Python, Java, and C++, as well as web technologies such as Flask, HTML, CSS, and JavaScript. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Key 2
 
-## Header 2
+> I am passionate about creating scalable and efficient solutions, and I enjoy learning new technologies to stay ahead in the rapidly evolving tech industry. 
+> Fluent in English and Mandarin, with conversational proficiency in German, I excel in multicultural and collaborative environments, consistently delivering high-quality results.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+### Key 3
 
 ```js
 // Javascript code with syntax highlighting.
