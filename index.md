@@ -4,7 +4,7 @@ layout: default
 
 `0xk3n3r`
 
-[Link to another page](./another-page.html).
+[To go wrong in one's own way is better than to go right in someone else's](./another-page.html).
 
 **Hej, I am a full-stack engineer. I am good at learning and deploying new technologies. **
 
