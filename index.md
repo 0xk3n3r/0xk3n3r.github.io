@@ -2,20 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+`0xk3n3r`
 
 [Link to another page](./another-page.html).
 
-Hej, I am a full-stack engineer. I am good at learning and deploying new technologies. 
+**Hej, I am a full-stack engineer. I am good at learning and deploying new technologies. **
 
 # Key 1
 
-I am a highly motivated and adaptable computer science graduate student with a strong academic background and practical experience in full-stack web development, data analysis, and machine learning. I have developed a solid foundation in programming languages, including Python, Java, and C++, as well as web technologies such as Flask, HTML, CSS, and JavaScript. 
+_I am a highly motivated and adaptable computer science graduate student with a strong academic background and practical experience in full-stack web development, data analysis, and machine learning. I have developed a solid foundation in programming languages, including Python, Java, and C++, as well as web technologies such as Flask, HTML, CSS, and JavaScript._
 
 ## Key 2
 
 > I am passionate about creating scalable and efficient solutions, and I enjoy learning new technologies to stay ahead in the rapidly evolving tech industry. 
-> Fluent in English and Mandarin, with conversational proficiency in German, I excel in multicultural and collaborative environments, consistently delivering high-quality results.
+~~ Fluent in English and Mandarin, with conversational proficiency in German, I excel in multicultural and collaborative environments, consistently delivering high-quality results.~~
 
 ### Key 3
 
@@ -34,19 +34,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Key 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### Key 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Key 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
